@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mapsFragment">
+
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.android.parkingticketfriends.ui.common.MapsFragment"
+        android:label="MapsFragment"
+        tools:layout="@layout/fragment_maps">
+        <action
+            android:id="@+id/action_mapsFragment_to_registerCarFragment"
+            app:destination="@id/registerCarFragment" />
+        <action
+            android:id="@+id/action_mapsFragment_to_checkReservationFragment"
+            app:destination="@id/checkReservationFragment" />
+        <action
+            android:id="@+id/action_mapsFragment_to_manageCreditFragment"
+            app:destination="@id/manageCreditFragment" />
+        <action
+            android:id="@+id/action_mapsFragment_to_reservationFragment"
+            app:destination="@id/reservationFragment"
+            app:popUpTo="@id/mapsFragment"/>
+        <action
+            android:id="@+id/action_mapsFragment_to_registerParkingSpaceFragment"
+            app:destination="@id/registerParkingSpaceFragment" />
+        <action
+            android:id="@+id/action_mapsFragment_to_manageParkingSpaceFragment"
+            app:destination="@id/manageParkingSpaceFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerCarFragment"
+        android:name="com.android.parkingticketfriends.ui.driver.RegisterCarFragment"
+        android:label="RegisterCarFragment" />
+    <fragment
+        android:id="@+id/checkReservationFragment"
+        android:name="com.android.parkingticketfriends.ui.driver.CheckReservationFragment"
+        android:label="CheckReservationFragment" />
+    <fragment
+        android:id="@+id/manageCreditFragment"
+        android:name="com.android.parkingticketfriends.ui.driver.ManageCreditFragment"
+        android:label="ManageCreditFragment" />
+    <fragment
+        android:id="@+id/reservationFragment"
+        android:name="com.android.parkingticketfriends.ui.driver.ReservationFragment"
+        android:label="ReservationFragment" />
+    <fragment
+        android:id="@+id/registerParkingSpaceFragment"
+        android:name="com.android.parkingticketfriends.ui.parking.RegisterParkingSpaceFragment"
+        android:label="RegisterParkingSpaceFragment" />
+    <fragment
+        android:id="@+id/manageParkingSpaceFragment"
+        android:name="com.android.parkingticketfriends.ui.parking.ManageParkingSpaceFragment"
+        android:label="ManageParkingSpaceFragment" />
+
+</navigation>
