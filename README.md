@@ -5,6 +5,9 @@
 주차지니는 부산의 영업시간 외 점포들과 협력하여,   
 **유휴 주차 공간을 공용 주차장으로 활용하는 앱**입니다.
 
+### 🏆 **Startup Weekend Busan Big Data for Good (최종 1위 수상)**
+> 3일간 진행된 창업형 해커톤 프로젝트
+
 <br>
 
 ## ❓ 문제 정의
@@ -67,6 +70,9 @@
 - 호스트(점포)의 주차장 관리 기능
 - 주차 요금 자동 정산 시스템
 
+### 데모 영상
+![parking_genie_demo_video](image/parking_genie_demo_video.gif)
+
 <br>
 
 ## 👤 담당 역할
@@ -76,15 +82,6 @@
 - MVP 기능들의 구현 범위 정의
 - 아키텍쳐 설계 및 구현
 - 발표 때 기술 구조 설명
-
-<br>
-
-## 🎯 배운 점
-
-- 제한된 시간 내에 구현할 기능의 우선순위를 결정 하는 것의 중요성을 배웠다.
-- 공공 데이터를 단순히 화면에 띄우는 값으로서 사용하는 것이 아니라 그 데이터의 의미를 참고하여 수익 구조에 반영하는 경험을 하였다
-- 기술을 개발자가 아닌 직군에게 설명하는 발표 경험을 하였다.
-- REST API를 따른 API 명세서를 작성하면서 REST API에 대한 이해도가 늘어났다.
 
 <br>
 
@@ -112,6 +109,15 @@
 | **Networking**   | ![Retrofit](https://img.shields.io/badge/Retrofit-FF7043?style=for-the-badge), ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)                                                                                                                                                                        |
 | **Jetpack**      | ![LiveData](https://img.shields.io/badge/LiveData-00C853?style=for-the-badge), ![ViewModel](https://img.shields.io/badge/ViewModel-795548?style=for-the-badge), ![Navigation](https://img.shields.io/badge/Navigation-673AB7?style=for-the-badge), ![ViewBinding](https://img.shields.io/badge/ViewBinding-009688?style=for-the-badge) |
 | **Maps**         | ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google&logoColor=white), ![Google Maps SDK for Android](https://img.shields.io/badge/Google%20Maps%20SDK%20for%20Android-4285F4?style=for-the-badge&logo=google&logoColor=white)                                      |
+
+<br>
+
+## 🎯 배운 점
+
+- 제한된 시간 내에 구현할 기능의 우선순위를 결정 하는 것의 중요성을 배웠다.
+- 공공 데이터를 단순히 화면에 띄우는 값으로서 사용하는 것이 아니라 그 데이터의 의미를 참고하여 수익 구조에 반영하는 경험을 하였다
+- 기술을 개발자가 아닌 직군에게 설명하는 발표 경험을 하였다.
+- REST API를 따른 API 명세서를 작성하면서 REST API에 대한 이해도가 늘어났다.
 
 <br>
 
