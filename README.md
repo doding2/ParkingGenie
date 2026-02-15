@@ -1,10 +1,8 @@
 # 주차지니(ParkingGenie)
 ![parking_genie_Introduce](image/parking_genie_introduce.png)
 
-🚗 부산에는 수 많은 차들이 있고, 그 차들이 주차할 공간은 부족합니다.
-
-주차지니는 부산의 영업시간 외 점포들과 협력하여,
-
+🚗 부산에는 수 많은 차들이 있고, 그 차들이 주차할 공간은 부족합니다.   
+주차지니는 부산의 영업시간 외 점포들과 협력하여,   
 **유휴 주차 공간을 공용 주차장으로 활용하는 앱**입니다.
 
 <br>
@@ -97,15 +95,15 @@
 
 ## 🛠️ 기술 스택
 
-| **Category**     | **Tech Stack**                                                                                                                                                                                                                                                                                                                         |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language**     | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)                                                                                                                                                                                                                                  |
-| **Platform**     | ![Android](https://img.shields.io/badge/Native%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)                                                                                                                                                                                                                      |
-| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)                                                                                                                                                                                                                                                                  |
-| **Async**        | ![Coroutine](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge)                                                                                                                                                                                                                                                       |
-| **Networking**   | ![Retrofit](https://img.shields.io/badge/Retrofit-FF7043?style=for-the-badge), ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)                                                                                                                                                                         |
+| **Category**     | **Tech Stack**                                                                                                                                                                                                                                                                                                                        |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language**     | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)                                                                                                                                                                                                                                 |
+| **Platform**     | ![Android](https://img.shields.io/badge/Native%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)                                                                                                                                                                                                                     |
+| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)                                                                                                                                                                                                                                                                 |
+| **Async**        | ![Coroutine](https://img.shields.io/badge/Coroutine-0095D5?style=for-the-badge)                                                                                                                                                                                                                                                       |
+| **Networking**   | ![Retrofit](https://img.shields.io/badge/Retrofit-FF7043?style=for-the-badge), ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)                                                                                                                                                                        |
 | **Jetpack**      | ![LiveData](https://img.shields.io/badge/LiveData-00C853?style=for-the-badge), ![ViewModel](https://img.shields.io/badge/ViewModel-795548?style=for-the-badge), ![Navigation](https://img.shields.io/badge/Navigation-673AB7?style=for-the-badge), ![ViewBinding](https://img.shields.io/badge/ViewBinding-009688?style=for-the-badge) |
-| **Infrastructure / Cloud**          | ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google&logoColor=white), ![Google Maps SDK for Android](https://img.shields.io/badge/Google%20Maps%20SDK%20for%20Android-4285F4?style=for-the-badge&logo=google&logoColor=white)                                       |
+| **Maps**         | ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google&logoColor=white), ![Google Maps SDK for Android](https://img.shields.io/badge/Google%20Maps%20SDK%20for%20Android-4285F4?style=for-the-badge&logo=google&logoColor=white)                                      |
 
 <br>
 
