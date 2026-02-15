@@ -5,8 +5,11 @@
 주차지니는 부산의 영업시간 외 점포들과 협력하여,   
 **유휴 주차 공간을 공용 주차장으로 활용하는 앱**입니다.
 
+<br>
 
-### 🏆 **Startup Weekend Busan Big Data for Good (최종 1위 수상)**
+## 🏆 수상
+
+### **Startup Weekend Busan Big Data for Good (최종 1위 수상)**
 > 3일간 진행된 창업형 해커톤 프로젝트
 
 <br>
